@@ -66,6 +66,11 @@ https://github.com/codeSTACKr/codeSTACKr
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Looking Glass Demo &lpar;Prey 2016&rpar;](https://www.noahgday.com/current-work/looking-glass-demo-prey-2016)
+- [GameDev.TV RPG Courses](https://www.noahgday.com/current-work/1x8tc3doa7zylqecyiyvwwkp4887t4)
+- [2021 GameDev.TV Game Jam](https://www.noahgday.com/current-work/vgj0r0mxyco1t9869ezuhh1ch7ufqe)
+- [WPF Masterclass](https://www.noahgday.com/current-work/a-hrefhttpswwwudemycomcoursewindows-presentation-foundation-masterclasswindows-presentation-foundation-masterclassa)
+- [GameDev.TV Unity Challenge Club, Quest 7](https://www.noahgday.com/current-work/gamedevtv-unity-challenge-club-quest-1-jn5n3)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.noahgday.com/current-wprl)
