@@ -12,38 +12,31 @@ https://github.com/codeSTACKr/codeSTACKr
 
 ## I'm a Software Developer, as well as an Indie Game Dev!!
 
--  Unity and Unreal Engine Developer 
--  Love working and prototyping on new games and ideas
--  Avid gamer, and full time software developer
+-  🔭 Unity and Unreal Engine Developer 
+-  👨‍💻 Love working and prototyping on new games and ideas
+-  🤝 Currently working with a small indie team on a metroidvania
+- ⚡Avid gamer, and Eagle Scout
+- 🌱 I’m currently learning **graphics programming and UE5**
 
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://www.noahgday.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://www.noahgday.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UClOfKFvs_gMErGtjuN6GfDQ#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UClOfKFvs_gMErGtjuN6GfDQ#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/ndaygamedev#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/ndaygamedev#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/noah-day-65737313b/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/noah-day-65737313b/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/ndaygamedev#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/ndaygamedev#gh-dark-mode-only)
 
 ### Languages and Tools:
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-[<img align="left" alt="Unity" width="26px" src="./img/unity.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Unreal" width="26px" src="./img/unrealengine.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Rider" width="26px" src="./img/rider.svg" style="padding-right:10px;" />]
-[<img align="left" alt="C++" width="26px" src="./img/cplusplus.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Fortran" width="26px" src="./img/fortran.svg" style="padding-right:10px;" />]
-[<img align="left" alt=".Net" width="26px" src="./img/dotnet.svg" style="padding-right:10px;" />]
-[<img align="left" alt="SQL" width="26px" src="./img/mysql.svg" style="padding-right:10px;" />]
-
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 <br />
 <br />
 
@@ -88,7 +81,13 @@ https://github.com/codeSTACKr/codeSTACKr
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bookfan97&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bookfan97&show_icons=true&locale=en" alt="bookfan97" /></p>
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Languages</summary>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bookfan97&show_icons=true&locale=en&layout=compact" alt="bookfan97" /></p>
 
 </details>
 
@@ -96,4 +95,4 @@ https://github.com/codeSTACKr/codeSTACKr
 [twitter]: https://twitter.com/ndaygamedev
 [youtube]: https://www.youtube.com/channel/UClOfKFvs_gMErGtjuN6GfDQ
 [instagram]: https://instagram.com/ndaygamedev
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/noah-day-65737313b/
