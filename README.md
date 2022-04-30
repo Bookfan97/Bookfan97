@@ -74,8 +74,8 @@ https://github.com/codeSTACKr/codeSTACKr
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#21](https://github.com/Bookfan97/2021-GameDevTV-GameJam/issues/21) in [Bookfan97/2021-GameDevTV-GameJam](https://github.com/Bookfan97/2021-GameDevTV-GameJam)
-2. ❗️ Closed issue [#22](https://github.com/Bookfan97/2021-GameDevTV-GameJam/issues/22) in [Bookfan97/2021-GameDevTV-GameJam](https://github.com/Bookfan97/2021-GameDevTV-GameJam)
+1. 🎉 Merged PR [#1](https://github.com/Bookfan97/Unity_UIToolkit_System/pull/1) in [Bookfan97/Unity_UIToolkit_System](https://github.com/Bookfan97/Unity_UIToolkit_System)
+2. 💪 Opened PR [#1](https://github.com/Bookfan97/Unity_UIToolkit_System/pull/1) in [Bookfan97/Unity_UIToolkit_System](https://github.com/Bookfan97/Unity_UIToolkit_System)
 <!--END_SECTION:activity-->
 
 </details>
