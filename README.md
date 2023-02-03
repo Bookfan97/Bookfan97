@@ -12,7 +12,8 @@ https://github.com/codeSTACKr/codeSTACKr
 
 ## I'm a Software Developer, as well as an Indie Game Dev!!
 
--  🔭 Unity and Unreal Engine Developer 
+- Founder at [Definitive Infinity Media](https://www.definitiveinfinity.com/) 
+- 🔭 Unity and Unreal Engine Developer 
 -  👨‍💻 Love working and prototyping on new games and ideas
 -  🤝 Currently working with a small indie team on a metroidvania
 - ⚡Avid gamer, and Eagle Scout
