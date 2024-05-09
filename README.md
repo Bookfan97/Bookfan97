@@ -46,11 +46,11 @@ https://github.com/codeSTACKr/codeSTACKr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I made Fallout’s V.A.T.S. in Unity 6](https://www.youtube.com/watch?v=56GUHTq-dRA)
+- [Winter Scene Render - Unreal Engine 5.3](https://www.youtube.com/watch?v=Z8BLYDafEnU)
 - [UE5 Forest Demo Scene](https://www.youtube.com/watch?v=FQXXd8dcI4o)
 - [Unity VR Archery Demo](https://www.youtube.com/watch?v=CwUKBFd66q4)
 - [Unreal Engine 5 Demo Scene](https://www.youtube.com/watch?v=claxD5vELY8)
-- [Unreal Engine 5 FPS Gameplay Demo](https://www.youtube.com/watch?v=sACQOcR0NcA)
-- [Unity Looking Glass Demo](https://www.youtube.com/watch?v=Rt-0gi9taPk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UClOfKFvs_gMErGtjuN6GfDQ/videos)
