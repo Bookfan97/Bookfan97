@@ -3,43 +3,57 @@ Original source code from:
 https://github.com/codeSTACKr/codeSTACKr
 -->
 
-# Hi there, I'm Noah 👋 
+# Hi there, I'm Noah! 👋
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UClOfKFvs_gMErGtjuN6GfDQ?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=noahgday.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://noahgday.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ndaygamedev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fndaygamedev&screen_name=ndaygamedev)
+![Banner Image](/img/banner.jpeg)
+---
+## About Me 🚀
 
+I'm a passionate Game Developer with experience in Unity. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-## I'm a Software Developer, as well as an Indie Game Dev!!
-
-- Founder at [Definitive Infinity Media](https://www.definitiveinfinity.com/) 
-- 🔭 Unity and Unreal Engine Developer 
+- Founder at [Definitive Infinity Media](https://www.definitiveinfinity.com/)
+- 🔭 Unity and Unreal Engine Developer
 -  👨‍💻 Love working and prototyping on new games and ideas
 -  🤝 Currently working with a small indie team on a metroidvania
-- ⚡Avid gamer, and Eagle Scout
+- ⚡Avid gamer, musician, and Eagle Scout
 - 🌱 I’m currently learning **graphics programming and UE5**
+---
+## My Skills 🧠
 
-### Connect with me:
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Github Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
 
-[![website](./img/globe-light.svg)](https://www.noahgday.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://www.noahgday.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UClOfKFvs_gMErGtjuN6GfDQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UClOfKFvs_gMErGtjuN6GfDQ#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/ndaygamedev#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/ndaygamedev#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/noah-day-65737313b/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/noah-day-65737313b/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/ndaygamedev#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/ndaygamedev#gh-dark-mode-only)
+<!-- *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).* -->
+<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+---
 
-### Languages and Tools:
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-<br />
-<br />
+## Favorite Tools 🔧
+
+![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?style=for-the-badge&logo=chocolatey&logoColor=fff)
+![Gitkraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
+![Warp](https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)
+![Webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
+
+<!-- *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).* -->
+<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+---
+
+## Featured Projects 💻
+
+### [V.A.T.S. in Unity 6]([https://www.entrylevelgamejobs.com/](https://youtu.be/56GUHTq-dRA?si=i63BLJH3uy4Wt1My))
+![Project 2 Screenshot](img/vats.png)
+
+With the Fallout TV show out, I decided to recreate a mechanic from one of my favorite games in Unity 6 in a week. It may be flawed, but this is the result!
+
+### [Entry Level Game Jobs](https://www.entrylevelgamejobs.com/)
+
+![Project 2 Screenshot](img/entrylevelgamejobs.png)
+
+EntryLevelGameJobs is a website built with React and Azure. This project is still a work in progress, but is a website designed to help anyone interested in getting into game development.
 
 ---
 
@@ -69,33 +83,14 @@ https://github.com/codeSTACKr/codeSTACKr
 
 ➡️ [more blog posts...](https://www.noahgday.com/current-wprl)
 
----
+## Get in Touch 📬
+[![Personal Website](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.noahgday.com)
+[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://noahgday.blogspot.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UClOfKFvs_gMErGtjuN6GfDQ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-day-65737313b)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/noah-day-65737313b)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ndaygamedev)
+[![Instagram](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://instagram.com/ndaygamedev)
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Bookfan97/Unity_UIToolkit_System/pull/1) in [Bookfan97/Unity_UIToolkit_System](https://github.com/Bookfan97/Unity_UIToolkit_System)
-2. 💪 Opened PR [#1](https://github.com/Bookfan97/Unity_UIToolkit_System/pull/1) in [Bookfan97/Unity_UIToolkit_System](https://github.com/Bookfan97/Unity_UIToolkit_System)
-<!--END_SECTION:activity-->
 
-</details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bookfan97&show_icons=true&locale=en" alt="bookfan97" /></p>
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Languages</summary>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bookfan97&show_icons=true&locale=en&layout=compact" alt="bookfan97" /></p>
-
-</details>
-
-[website]: https://www.noahgday.com
-[twitter]: https://twitter.com/ndaygamedev
-[youtube]: https://www.youtube.com/channel/UClOfKFvs_gMErGtjuN6GfDQ
-[instagram]: https://instagram.com/ndaygamedev
-[linkedin]: https://www.linkedin.com/in/noah-day-65737313b/
