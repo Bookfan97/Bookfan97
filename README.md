@@ -37,6 +37,7 @@ I'm a passionate Game Developer with experience in Unity. I love tackling comple
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
 ![Warp](https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)
 ![Webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=Jenkins&logoColor=white)
 
 <!-- *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).* -->
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
