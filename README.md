@@ -11,7 +11,7 @@ https://github.com/codeSTACKr/codeSTACKr
 
 I'm a passionate Game Developer with experience in Unity. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- Founder at [Definitive Infinity Media](https://www.definitiveinfinity.com/)
+- Founder at [Definitive Infinity Media](https://www.definitiveinfinitymedia.com/)
 - 🔭 Unity and Unreal Engine Developer
 -  👨‍💻 Love working and prototyping on new games and ideas
 -  🤝 Currently working with a small indie team on a metroidvania
